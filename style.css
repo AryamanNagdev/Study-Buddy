@@ -1,0 +1,42 @@
+h1{
+	color: whitesmoke;
+	text-align: center;
+	border: 5px	solid beige;
+	border: dashed;
+	 
+}
+h3,h4{
+	color: whitesmoke;
+	cursor: pointer;
+}
+p{
+	color: whitesmoke;
+	text-decoration: underline;
+	font-style:	italic;
+	font-family: "Georgia";
+}
+body
+{
+	background-image: url(im2.PNG);
+	background-size: cover;
+}
+li
+{
+	color: whitesmoke;
+}
+p{
+	vertical-align: unset;
+}
+footer {
+  height: 50px;
+  color: whitesmoke;
+  padding: 400px;
+  font-size: 20px;
+}
+.center
+{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}

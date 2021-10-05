@@ -1,0 +1,46 @@
+body
+{
+	background-image: url(im2.PNG);
+	background-size: cover;
+}
+li
+{
+	color: whitesmoke;
+	width: auto;
+	list-style-type: square;
+}
+h1{
+	color: whitesmoke;
+	text-align: center;
+	border: 5px	solid beige;
+	border: dashed;
+	 
+}
+p{
+	color: whitesmoke;
+	text-decoration: underline;
+	font-style:	italic;
+	font-family: "Georgia";
+}
+#web{
+	height: 50px;
+  color: whitesmoke;
+  font-size: 20px;
+}
+form
+{
+	text-align: center;
+	color: whitesmoke;
+}
+.center
+{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}
+.aaa{
+  text-align: left;
+  bottom:0;
+  width:100%; }
+.aaa a{text-decoration:none; color:#fff;}

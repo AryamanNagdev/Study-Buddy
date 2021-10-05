@@ -1,0 +1,15 @@
+h2{
+	color: whitesmoke;
+}
+.center
+{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}
+body
+{
+	background-image: url(im2.PNG);
+	background-size: cover;
+}
